@@ -1,13 +1,14 @@
 
 
 import React, { Component } from 'react'
+import NavBar from './component/NavBar'
 
 export default class App extends Component {
   render() {
     return (
       <div>
 
-        hi i am react class componenet
+        <NavBar></NavBar>
         
       </div>
     )
