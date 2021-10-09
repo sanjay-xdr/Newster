@@ -1,3 +1,11 @@
+# News Web App made using <a href="https://newsapi.org/">News API</a> and React and BootStrap
+
+# Features:-
+# 1.Category Wise News
+# 2.Infinite Scroll
+# 3.Top Loading Bar 
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
